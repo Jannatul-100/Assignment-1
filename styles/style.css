@@ -1,0 +1,149 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.btn{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 14px 18px;
+    border-color: rgba(13, 19, 33, 1);
+    background-color: white;
+    border-radius: 8px;
+
+}
+.name{
+    font-size: 28px;
+    font-weight: 800;
+    color: #0D1321;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 150px;
+}
+
+.first-page{
+    text-align: center;
+    align-items: center;
+    justify-content: center; 
+    
+    padding-top: 50px;
+
+
+}
+
+.head{
+    font-size: 48px;
+    color: #0D1321;
+    font-weight: bolder;
+    margin-top: 32px;
+    line-height: 4rem;
+    
+    
+}
+.para{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0D1321;
+    margin-top: 20px;
+    line-height: 2rem;
+    
+    
+}
+.btnC{
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    background-color: #0D1321;
+    padding: 18px 22px;
+    border-radius: 8px;
+    margin-top: 32px;
+    margin-bottom: 50px;
+    
+
+
+}
+
+.bg-image{
+    background-image: url('../assets/Hero-bg.png');
+    max-height: 800px;
+    max-width: 100%;
+}
+.web-head{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.web{
+    font-weight: 800;
+    font-size: 32px;
+
+}
+
+.main{
+    background-color: white;
+}
+.container{
+    background-color: rgba(13, 19, 33, 0.02);
+    margin: 80px 150px;
+    border-radius: 12px;
+    padding: 50px 0px;
+
+}
+.card1{
+    display: flex;
+    justify-content: center;
+    border: none;
+    border-radius: 12px;
+
+    margin: 0px 100px;
+    background-color: white;
+    justify-content: space-between;
+    padding: 50px;
+    margin-bottom: 50px;
+
+
+}
+
+
+.btnD{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 12px 18px;
+    border-color: rgba(13, 19, 33, 1);
+    background-color: white;
+   
+
+}
+.web-con{
+    font-size: 24px;
+}
+
+/* .ytube{
+    justify-content: center;
+    align-items: center;
+
+} */
+.video{
+    
+    border: 2px solid black;
+    border-radius: 12px; 
+    padding: 40px;
+    
+} 
+.main-video{
+    display: flex;
+    align-items: center;
+     text-align: center; 
+    justify-content: center;
+}
+
+.text2{
+    margin-bottom: 50px;
+}
